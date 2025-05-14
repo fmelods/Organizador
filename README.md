@@ -12,7 +12,6 @@ Um aplicativo web minimalista e responsivo para organização pessoal, desenvolv
 - [Uso](#uso)
 - [Personalização](#personalização)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## 👀 Visão Geral
 
